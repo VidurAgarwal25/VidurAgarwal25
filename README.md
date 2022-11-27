@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vidur025agarwal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tlqfYyM_oe-QovR8YC4c2uE8EheAsxcy/view](https://drive.google.com/file/d/1tlqfYyM_oe-QovR8YC4c2uE8EheAsxcy/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tlqfYyM_oe-QovR8YC4c2uE8EheAsxcy/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
