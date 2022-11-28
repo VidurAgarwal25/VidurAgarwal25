@@ -33,6 +33,6 @@
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viduragarwal25&show_icons=true&locale=en&layout=compact" alt="viduragarwal25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viduragarwal25&show_icons=true&locale=en" alt="viduragarwal25" /></p>
+<p>&nbsp;<img align="center" src="vidur-agarwal25.vercel.app?username=viduragarwal25&show_icons=true&locale=en" alt="viduragarwal25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viduragarwal25&" alt="viduragarwal25" /></p>
