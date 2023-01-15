@@ -1,6 +1,3 @@
- 
-README.md
-@@ -1,81 +1,81 @@
 <h1 align="center">Hi 👋, I'm Vidur Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" alt="coding" borderRadius="20"  width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
