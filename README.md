@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Deepak Mor** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Deepak Mor** <img src="https://komarev.com/ghpvc/?username=viduragarwal25&label=Profile%20views&color=0e75b6&style=flat" alt="viduragarwal25" width="400" align="right"/>
 - :school: I'm currently 4th year student at **Graphic Era Univerysity Dehradun**
 - :books: My major is **Computer Science Engineering**
 - :earth_asia: I'm living now in **Dehradun**
