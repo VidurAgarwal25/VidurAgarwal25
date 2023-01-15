@@ -23,8 +23,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VidurAgarwal25&layout=compact&langs_count=5&theme=light"/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VidurAgarwal25&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VidurAgarwal25&layout=compact&langs_count=5&theme=dark"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VidurAgarwal25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=viduragarwal25&theme=algolia&background=0d1117&hide_border=true" />
