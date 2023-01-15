@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/cryptic-exe?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/cryptic-exe?style=social"> &nbsp;&nbsp; <img alt="cryptic-exe | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/viduragarwal25?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/viduragarwal25?style=social"> &nbsp;&nbsp; <img alt="viduragarwal25 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Deepak+Mor+%3C3;Cryptic+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
@@ -23,34 +23,34 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic-exe&layout=compact&show_icon=true&theme=algolia" alt="cryptic-exe-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=cryptic-exe&layout=compact&show_icon=true&theme=algolia" alt="cryptic-exe-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduragarwal25&layout=compact&show_icon=true&theme=algolia" alt="viduragarwal25-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=viduragarwal25&layout=compact&show_icon=true&theme=algolia" alt="viduragarwal25-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=cryptic-exe&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=cryptic-exe&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=viduragarwal25&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=viduragarwal25&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:dmor83@gmail.com" >
-    <img align="center" alt="cryptic-exe | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="viduragarwal25 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/imdeepakmor/" target="_blank">
-    <img align="center" alt="cryptic-exe | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="viduragarwal25 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/deepakmor83/" target="_blank">
-      <img align="center" alt="cryptic-exe | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="viduragarwal25 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/imdeepakmor/" target="_blank">
-    <img align="center" alt="cryptic-exe | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="viduragarwal25 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/cryptic-exe" target="_blank">
-    <img align="center" alt="cryptic-exe | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://profile-summary-for-github.herokuapp.com/user/viduragarwal25" target="_blank">
+    <img align="center" alt="viduragarwal25 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
@@ -61,6 +61,6 @@
 
 ------
 
-Credit: [cryptic-exe](https://github.com/cryptic-exe)
+Credit: [viduragarwal25](https://github.com/viduragarwal25)
 
 
