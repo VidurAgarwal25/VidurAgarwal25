@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vidur Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" alt="coding" borderRadius="20"  width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduragarwal25&label=Profile%20views&color=0e75b6&style=flat" alt="viduragarwal25" /> </p>
+
 - 🔭 I’m currently working at **Cognizant**
+
 - 🌱 I’m currently learning **React, Redux, JSP, SpringMVC**
+
 - 👨‍💻 All of my projects are available at [github](github)
+
 - 💬 Ask me about **Java, SpringBoot, C++, Python, Machine Learning**
+
 - 📫 How to reach me **vidur025agarwal@gmail.com**
+
+
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tlqfYyM_oe-QovR8YC4c2uE8EheAsxcy/view)
 <h3 align="left">Connect with me:</h3>  
 <div align="center">
