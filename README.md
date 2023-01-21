@@ -65,9 +65,10 @@
 
 
 ## 📊 GitHub Stats:
+<div style="text-align: center;">
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VidurAgarwal25&layout=compact&langs_count=5&theme=dark" alt="viduragarwal25" /></p>
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VidurAgarwal25&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="viduragarwal25" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viduragarwal25&&theme=dark" alt="viduragarwal25" /></p>
-
+</div>
 
 
