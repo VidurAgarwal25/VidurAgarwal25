@@ -4,18 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduragarwal25&label=Profile%20views&color=0e75b6&style=flat" alt="viduragarwal25" /> </p>
 
-- 🔭 I’m currently working at **Cognizant**
+- 🔭 I’m currently working at **Acuity Knowledge Partners**
 
-- 🌱 I’m currently learning **React, Redux, JSP, SpringMVC**
+- 🌱 I have worked on **Dotnet, SpringBoot, React, Redux, TypeScript, Angular, JSP, AWS, Jenkins, Apache Kafka, Tailwind**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Java, SpringBoot, C++, Python, Machine Learning**
+- 💬 Ask me about **Java, SpringBoot, C#, Dotnet, React, Redux, TypeScript, Angular, C++, Python, DSA, Machine Learning**
 
 - 📫 How to reach me **vidur025agarwal@gmail.com**
 
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tlqfYyM_oe-QovR8YC4c2uE8EheAsxcy/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UQTs3ISFeAfFyWDlJ7SYD_2za8y8yIIB/view)
 <h3 align="left">Connect with me:</h3>  
 <div align="center">
 <a href="https://github.com/VidurAgarwal25" target="_blank">
