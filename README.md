@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduragarwal25&label=Profile%20views&color=0e75b6&style=flat" alt="viduragarwal25" /> </p>
 
-- 🔭 I’m currently working at **Acuity Knowledge Partners**
+- 🔭 I’m currently working at **S&P Global**
 
 - 🌱 I have worked on **Dotnet, SpringBoot, React, Redux, TypeScript, Angular, JSP, AWS, Jenkins, Apache Kafka, Tailwind**
 
